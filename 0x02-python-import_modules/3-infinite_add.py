@@ -12,4 +12,3 @@ for arg in sys.argv:
     else:
         i += 1
 print("{:d}".format(result))
-
